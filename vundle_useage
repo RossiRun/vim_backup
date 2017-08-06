@@ -1,0 +1,23 @@
+使用
+1.载入必要的依赖库
+$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
+2.reload git备份的.vimrc
+
+3.:PluginIstall
+
+----------------------------------
+
+VIM命令行状态下
+1.安装插件
+- 搜索插件，写入.vimrc文件中
+- :PluginIstall
+
+2.更新插件
+- 
+
+3.清理插件
+- :PluginClean
+
+4.搜索插件
+- :PluginSearch <text-list>
